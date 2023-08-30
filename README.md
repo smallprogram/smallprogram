@@ -1,5 +1,5 @@
 ### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-![](https://visitor-badge.glitch.me/badge?page_id=smallprogram.smallprogram)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fsmallprogram%2Fsmallprogram&countColor=%2344cc11&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsmallprogram%2Fsmallprogram)
 
 #### Welcome to my GitHub
 
